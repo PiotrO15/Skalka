@@ -1,0 +1,14 @@
+{
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "trips": [],
+  "starred": [],
+  "stats": {
+      "walkDistance": 5.2,
+      "runDistance": 8.0,
+      "cyclingDistance": 12.3,
+      "totalTrips": 3,
+      "plannedTrips": 2,
+      "visitedPlaces": 7
+    }
+}

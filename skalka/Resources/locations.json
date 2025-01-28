@@ -1,0 +1,27 @@
+[
+  {
+    "type": "peak",
+    "location": {
+      "id": "28a55f9c-cdf7-4868-b424-740151d750da",
+      "name": "Śnieżka",
+      "coordinates": {
+        "latitude": 34.041286,
+        "longitude": -116.196868
+      },
+      "altitude": 1603,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Śnieżka_z_zachodu.jpg/1280px-Śnieżka_z_zachodu.jpg",
+      "description": "Śnieżka znacznie góruje nad otaczającymi ją grzbietami. Wznosi się w zachodniej części Czarnego Grzbietu. Na zachodzie Przełęcz pod Śnieżką oddziela ją od Równi pod Śnieżką, ku wschodowi ciągnie się Czarny Grzbiet, natomiast ku południowi odchodzi długie, boczne ramię ze wzniesieniami: Růžová hora, Pěnkavčí vrch i Červený vrch, kończące się na południowym wschodzie, przy ujściu Małej Úpy do Úpy. Ramię to nosi nazwę Růžohorská hornatina."
+    }
+  },
+  {
+    "type": "shelter",
+    "location": {
+      "id": "28a55f9c-cdf7-4868-b424-740151d769da",
+      "name": "Dom Śląski",
+      "coordinates": {
+        "latitude": 34.011286,
+        "longitude": -116.196868
+      }
+    }
+  }
+]
